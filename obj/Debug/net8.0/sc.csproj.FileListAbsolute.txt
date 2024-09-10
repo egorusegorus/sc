@@ -12,3 +12,4 @@
 /home/tomasz/C##/sc/obj/Debug/net8.0/sc.pdb
 /home/tomasz/C##/sc/obj/Debug/net8.0/sc.genruntimeconfig.cache
 /home/tomasz/C##/sc/obj/Debug/net8.0/ref/sc.dll
+/home/tomasz/C##/sc/obj/Debug/net8.0/sc.sourcelink.json
